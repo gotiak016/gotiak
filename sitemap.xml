@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Courses -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/courses.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Software -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/software.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Anime -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/anime.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Movies -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/movies.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Games -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/game.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Books -->
+  <url>
+    <loc>https://gotiak016.github.io/gotiak/book.html</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>
