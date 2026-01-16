@@ -1,0 +1,12 @@
+body{
+
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(34, 34, 46),rgb(9, 9, 66));
+    text-align: center;
+}
+h1{
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
